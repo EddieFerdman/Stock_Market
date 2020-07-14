@@ -1,8 +1,9 @@
 # Stock Market!
 #### Predict Stock Market Activity
 
-**Goal1: 70% Precision Accuracy using simple indicators.**
-**Goal12: Backtesting models and strategies**
+**Goal 1: 70% Precision Accuracy using simple indicators.** 
+
+**Goal1 2: Backtesting models and strategies**
 
 **Scripts Overview:**
 1. **FeatureEngineering** - Gather data for 1 stock ticker, develop simple indicators and target variables.
