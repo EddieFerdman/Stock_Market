@@ -13,10 +13,12 @@
 
 **Pipeline:**
 1. Tune a model for better performance.
-  - [ ] Hyperparameter tuning
-  - [ ] Probability decisions - choose highest probabilty for backtesting
-2. Create more features. NLP of financial news.
+    - [ ] Hyperparameter tuning
+    - [ ] Probability decisions - choose highest probabilty for backtesting
+2. Create more features.
+    - [ ] NLP of financial news.
+    - [ ] Stock info - market cap, industry sector, employee size, sharesout, dividends ...
 3. Regression models
-  - [ ] Idea: Predict at what price to sell for backtesting script
+    - [ ] Idea: Predict at what price to sell for backtesting script
 
 
